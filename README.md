@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Utain Wongpreaw, Now
+![](https://komarev.com/ghpvc/?username=elemental456&color=orange)
+
+
+![](https://github-profile-trophy.vercel.app/?username=elemental456)
+
+
 <!--
 **elemental456/elemental456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
